@@ -10,7 +10,8 @@ export function renderSavedPage(root, router) {
       </header>
 
       <nav class="page-nav">
-        <a href="#/">Decision</a>
+        <a href="#/">Tiebreaker</a>
+        <a href="#/dashboard">Dashboard</a>
         <a href="#/saved" class="active">Saved decisions</a>
       </nav>
 

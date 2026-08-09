@@ -13,7 +13,8 @@ export function renderHome(root, router) {
       </header>
 
       <nav class="page-nav">
-        <a href="#/" class="active">Decision</a>
+        <a href="#/" class="active">Tiebreaker</a>
+        <a href="#/dashboard">Dashboard</a>
         <a href="#/saved">Saved decisions</a>
       </nav>
 

@@ -32,3 +32,4 @@ Then open `http://127.0.0.1:8080` in your browser.
 
 - This is a self-contained local app. No server or installation is required if you just open `index.html`.
 - It uses an AI-inspired decision helper to generate structured guidance and comparison insights.
+- A new Dashboard page lets you paste JSON array data and visualize it with summary cards, tables, and charts.
